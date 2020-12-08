@@ -5,26 +5,6 @@ const setup = (inputPath = 'input.txt') => {
     return fs.readFileSync(inputPath, { encoding: 'utf-8' }).split('\n');
 };
 
-/*const runProgram = (program) => {
-    let visitedLines = [];
-    let accumulator = 0;
-    let programCounter = 0;
-    do {
-        const { op, value } = program[programCounter];
-        visitedLines.push(programCounter);
-        if (op === 'jmp') {
-            programCounter += value;
-        } else if (op === 'acc') {
-            accumulator += value;
-            programCounter++;
-        } else if (op === 'nop') {
-            programCounter++;
-        }
-    }
-    while(!visitedLines.includes(programCounter));
-    return accumulator;
-};*/
-
 const runProgram = (program, checkDone = false) => {
     let visitedLines = [];
     let accumulator = 0;

@@ -8,3 +8,4 @@
 * [Day 6: Custom Customs](https://github.com/hunterparks/2020-advent-of-code/tree/master/day-06-custom-customs)
 * [Day 7: Handy Haversacks](https://github.com/hunterparks/2020-advent-of-code/tree/master/day-07-handy-haversacks)
 * [Day 8: Handheld Halting](https://github.com/hunterparks/2020-advent-of-code/tree/master/day-08-handheld-halting)
+* [Day 9: Encoding Error](https://github.com/hunterparks/2020-advent-of-code/tree/master/day-09-encoding-error)

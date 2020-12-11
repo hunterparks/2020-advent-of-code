@@ -48,6 +48,7 @@ const main = () => {
             updateReadme(adventTitle);
             createScript(`${adventPath}/script.js`, adventUrl);
             fs.writeFileSync(`${adventPath}/input.txt`, '');
+            fs.writeFileSync(`${adventPath}/sample.txt`, '');
             rl.close();
         });
     });

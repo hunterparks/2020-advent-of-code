@@ -10,3 +10,4 @@
 * [Day 8: Handheld Halting](https://github.com/hunterparks/2020-advent-of-code/tree/master/day-08-handheld-halting)
 * [Day 9: Encoding Error](https://github.com/hunterparks/2020-advent-of-code/tree/master/day-09-encoding-error)
 * [Day 10: Adapter Array](https://github.com/hunterparks/2020-advent-of-code/tree/master/day-10-adapter-array)
+* [Day 11: Seating System](https://github.com/hunterparks/2020-advent-of-code/tree/master/day-11-seating-system)
